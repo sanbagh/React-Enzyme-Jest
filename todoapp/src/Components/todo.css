@@ -1,0 +1,12 @@
+.ToDo {
+  position: relative;
+  border: 1px solid #eaeaea;
+  width: 50%;
+  margin: 3px auto;
+  padding: 5px;
+}
+.ToDo button {
+  position: absolute;
+  top: -5px;
+  right: 5px;
+}

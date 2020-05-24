@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  width: 50%;
+  margin: 50px auto;
+  border: 1px solid red;
+}
+.App h1{
+    color: blue;
+  }

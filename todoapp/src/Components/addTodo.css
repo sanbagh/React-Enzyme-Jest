@@ -1,0 +1,13 @@
+.AddToDo {
+    position: relative;
+  width: 50%;
+  margin: 5px auto;
+}
+.AddToDo input {
+  padding: 0;
+}
+.AddToDo button {
+  position: absolute;
+  top: -3px;
+  right: 5px;
+}
